@@ -3,6 +3,7 @@
 Input: s = "A man, a plan, a canal: Panama"
 Output: true
 Explanation: "amanaplanacanalpanama" is a palindrome.""
+hi im karan
 '''
 # code link: https://leetcode.com/problems/valid-palindrome/description/?envType=problem-list-v2&envId=string
 class Solution:
